@@ -1,0 +1,16 @@
+name: ruben kossen
+speedforce: 0
+special power: flaming bear
+speed: 0
+live: no
+ammo: 10000000000000000000000000000000000
+number of flames: 0
+sleping power: infinite
+level: 69
+wanted: niet
+manleles: -1000000000000000
+skills:
+dick
+punch
+run
+girlfriend: stil looking
